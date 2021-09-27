@@ -22,9 +22,9 @@ yearyouborn = float(input('Please type which year were you born: '))
 age = currentyear - yearyouborn
 
 print (' ')
-print ('#############################')
+print ('###############################')
 print (f'You are {age:.0f} years old.')
-print ('#############################')
+print ('###############################')
 print (' ')
 
 
