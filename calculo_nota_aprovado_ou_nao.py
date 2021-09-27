@@ -5,11 +5,7 @@
 # - Se nota menor que 5 = REPROVADO
 # - Se nota maior que 5 e menor que 6.9 = RECUPERAÇÃO 
 # - Se nota maior que 7 = APROVADO
-#
-#
-#
-#
-### Autor thieslei@gmail.com
+
 
 nota1 = float(input('Digite a sua primeira nota: '))
 nota2 = float(input('Digite a sua segunda nota: '))
@@ -21,3 +17,7 @@ elif media > 5.0 and media < 6.9:
     print (f'Sua média foi {media}: RECUPERAÇÃO')
 else:
     print (f'Sua média foi {media}: APROVADO!!!')
+
+
+
+### Autor thieslei@gmail.com
