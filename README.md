@@ -13,7 +13,7 @@
 <BR>
 
 ## 💪🏽️ What this project is about?? <a name = "aboutit"></a>
-It's a repo where I save my "lab python scripts". i decided leave it public, to help others students like me in this long study journey.
+It's a repo where I save my "lab python scripts". I decided leave it public, to help others students like me in this long study journey.
 
 ![Alt text](img/python-logo.png?raw=true "PythonLogo")
 
